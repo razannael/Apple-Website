@@ -5,6 +5,8 @@ Welcome to Titanium! This project utilizes a combination of cutting-edge technol
 ## 🚀 Demo
 [View Demo](https://apple-website-by-razan.vercel.app/)
 
+![Screenshot (297)](https://github.com/razannael/Apple-Website/assets/127951072/28781cf3-374f-4b8c-b039-9df0b9de32c1)
+
 ## ✨ Features
 
 ### 🎨 Beautiful Subtle Smooth Animations using GSAP
